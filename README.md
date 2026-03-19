@@ -23,9 +23,9 @@ This project was inspired by real challenges I observed while supporting activit
 ---
 
 ## 📸 Screenshots
-![Menu](menu.png)  
-![Add Client](add.png)  
-![Search](search.png)  
+![Menu](menu.png.png)  
+![add Client](add.png.png)  
+![search](search.png.png)  
 
 ---
 
