@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project was developed to solve real challenges faced at the Dignity Centre in Cyprus, where refugee data was previously managed using paper-based systems. The system introduces a digital solution to improve efficiency, organization, and service delivery.
+This project was inspired by real challenges I observed while supporting activities at the Dignity Centre in Cyprus.
 
 ---
 
@@ -35,7 +36,7 @@ This project was developed to solve real challenges faced at the Dignity Centre 
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Compile and Run
 
 Compile:
 g++ main.cpp Person.cpp System.cpp -o app  
@@ -50,6 +51,8 @@ Run:
 - Database integration  
 - Improved UI  
 
+## 👤 Author
+Gbla Salieu – Computer Information System student passionate about using technology to solve real-world problems in humanitarian contexts.
 ---
 
 ## 🌍 Impact
