@@ -1,8 +1,7 @@
 # Dignity Centre Management System
 
 ## 📌 Overview
-This project was developed to solve real challenges faced at the Dignity Centre in Cyprus, where refugee data was previously managed using paper-based systems. The system introduces a digital solution to improve efficiency, organization, and service delivery.
-This project was inspired by real challenges I observed while supporting activities at the Dignity Centre in Cyprus.
+This project was developed to solve real challenges faced at the Dignity Centre in Cyprus, where refugee data was previously managed using paper-based systems. The system introduces a digital solution to improve efficiency, organization, and service delivery. This project was inspired by real challenges I observed while supporting activities at the Dignity Centre in Cyprus.This project was developed as part of my personal initiative while studying Computer Information Systems in European University Cyprus.
 
 ---
 
