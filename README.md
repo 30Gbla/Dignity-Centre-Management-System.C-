@@ -1,58 +1,112 @@
 # Dignity Centre Management System
 
-## 📌 Overview
-This project was developed to solve real challenges faced at the Dignity Centre in Cyprus, where refugee data was previously managed using paper-based systems. The system introduces a digital solution to improve efficiency, organization, and service delivery. This project was inspired by real challenges I observed while supporting activities at the Dignity Centre in Cyprus.This project was developed as part of my personal initiative while studying Computer Information Systems in European University Cyprus.
+## Overview
+
+The Dignity Centre Management System is a C++ desktop application designed to improve how refugee support information is managed at the Dignity Centre in Cyprus.
+
+The project was inspired by my direct experiences supporting activities at the Centre and observing operational challenges caused by paper-based record management systems.
+
+The system was developed to improve workflow efficiency, reduce administrative delays, and help staff and volunteers retrieve information more effectively during high-demand situations.
 
 ---
 
-## 🎯 Purpose
-- Digitize client registration  
-- Improve data organization  
-- Enable faster search and retrieval  
-- Reduce paper-based processes  
+## Problem Statement
+
+The Centre previously relied heavily on manual paper records to manage client information and services.
+
+This created several challenges:
+
+- Delays when searching for client records
+- Difficulty tracking services already provided
+- Overcrowding during busy periods
+- Increased administrative workload
+- Risk of missing or inconsistent information
+
+The goal of the project was to create a structured digital system that improves accessibility, organization, and efficiency.
 
 ---
 
-## ⚙️ Features
-- Add new client  
-- Search by name or phone  
-- Save and load data from file  
-- Menu-based interface  
+## Features
+
+- Digital registration system
+- Search client records
+- Multi-field search functionality
+- Update and delete records
+- File saving and loading
+- Input validation checks
+- Structured menu-driven interface
+- Object-oriented design using C++
 
 ---
 
-## 📸 Screenshots
-![Menu](menu.png.png)  
-![add Client](add.png.png)  
-![search](search.png.png)  
+## Technologies Used
+
+- C++
+- Object-Oriented Programming (OOP)
+- Classes and Structured Data
+- Vectors
+- File Handling (`ifstream` / `ofstream`)
+- Modular Programming
+- Debugging and Refactoring
 
 ---
 
-## 🛠️ Technologies Used
-- C++  
-- Object-Oriented Programming  
-- File Handling  
+## Technical Challenges
+
+Some of the major technical challenges included:
+
+- Managing incomplete user input
+- Preventing null-value-related errors
+- Implementing reliable file persistence
+- Designing a simple interface for non-technical users
+- Structuring the project across multiple files
+- Refactoring the codebase for maintainability
+
+These challenges helped strengthen my debugging, structured programming, and software design skills.
 
 ---
 
-## ▶️ How to Compile and Run
+## Impact
 
-Compile:
-g++ main.cpp Person.cpp System.cpp -o app  
+During testing, the system managed more than 40 sample client records and demonstrated significantly faster information retrieval compared to manual paper-based processes.
 
-Run:
-./app  
+Tasks that previously required several minutes could often be completed within seconds using the search functionality.
+
+The project also demonstrated how technology could improve workflow efficiency within humanitarian support environments.
 
 ---
 
-## 🚀 Future Improvements
-- Web-based system  
-- Database integration  
-- Improved UI  
+## Future Improvements
 
-## 👤 Author
-Gbla Salieu – Computer Information System student passionate about using technology to solve real-world problems in humanitarian contexts.
+- Convert the application into a web-based platform
+- Add secure login and authentication
+- Integrate database systems
+- Improve accessibility and user experience
+- Implement appointment scheduling
+- Explore AI-assisted development tools
+- Apply green computing principles for sustainable hosting
+
 ---
 
-## 🌍 Impact
+## Screenshots
+
+(Add screenshots here)
+
+---
+
+## Author
+
+Salieu Gbla
+
+Computer Information Systems Student  
+Passionate about software development, accessibility, and technology for social impact.
+
+GitHub: https://github.com/30Gbla
+
+
+
+
+
+
+
 This project demonstrates how simple software solutions can improve service delivery for vulnerable communities.
